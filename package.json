@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "start": "node index.js"
+    "start": "node profile_service.js"
   },
   "dependencies": {
     "amqplib": "^0.6.0",
